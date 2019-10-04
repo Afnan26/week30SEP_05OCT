@@ -1,4 +1,5 @@
-body{color: blue;}
+body{color: blue;
+font-size: 50px;}
 p {
   text-align: center;
   color: red;
@@ -18,4 +19,12 @@ button{
   text-align: center;
   font-size: 70px
 
+}
+
+div{
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+  color: navy;
+  font-size: 70px;
 }
