@@ -2,22 +2,27 @@ body{color: blue;
 font-size: 50px;}
 p {
   text-align: center;
-  color: red;
+  color: white;
+
 }
 
 * {
 
-  padding-top: 50px;
+  padding-top: 30px;
   padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  background-color: #B1DDDA;
 }
 button{
-  height: 200px;
-  width: 50%;
-  background-color: powderblue;
+  height: 70px;
+  width: 40%;
+  background-color: white;
+  align: center;
   text-align: center;
-  font-size: 70px
+  font-family: sans-serif;
+  color: navy;
+  font-size: 30px
 
 }
 
